@@ -17,6 +17,8 @@ minus.addEventListener("click", () => {
 })
 
 plus.addEventListener("click", () => {
+    minus.disabled = false
+
     ozgaruvchi += defaults
     finnally.textContent = ozgaruvchi
 })
