@@ -1,4 +1,3 @@
-
 const minus = document.querySelector(".minus")
 const plus = document.querySelector(".plus")
 const finnally = document.querySelector(".final")
